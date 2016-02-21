@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: "You're up and running!"
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Finally a blog of my own, years ive been wanting to have my own blog, but wordpress are just too complicated for me, so to say, hahaha..
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Then i tried github pages, originally i was going to built it using JS framework likeand  Angular, or the small 7kb MVC library Mithril with Firebase as the back-end. Then I found this [article by Barry Clark](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), instantly I know this is the way to go it, simple blog that not bloated with features, fits exactly what I need, no database, serve static content, thus very fast, real fast! 
+
+What I need to do is just fork [jekyll-now repository](https://github.com/barryclark/jekyll-now) as the starting point, config little bit of this little bit of that, ta... da... there goes my blog (I mean this). I would thank Barry Clark for providing such thing, finally I got my own blog!
