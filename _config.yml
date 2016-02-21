@@ -53,8 +53,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+# markdown: redcarpet  https://mail.google.com/mail/u/0/#search/github/152f4f594eb01d37
+highlighter: rouge	  #https://mail.google.com/mail/u/0/#search/github/15301a419ba3ff8b	 
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
