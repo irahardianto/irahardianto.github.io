@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "Finally my own blog!"
 published: true
 ---
 
